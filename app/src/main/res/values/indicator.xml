@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sub_indicator">
+        <item>주가이동평균</item>
+        <item>거래량</item>
+        <item>거래량이동평균</item>
+        <item>MACD</item>
+        <item>MACD OSC</item>
+        <item>패스트 스토캐스틱</item>
+        <item>슬로우 스토캐스틱</item>
+        <item>RSI</item>
+        <item>CCI</item>
+        <item>AB ratio</item>
+        <item>ATR</item>
+        <item>DMI</item>
+        <item>NVI</item>
+        <item>OBV</item>
+        <item>Sonar</item>
+    </string-array>
+</resources>

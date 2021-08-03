@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="overlay">
+        <item>일목균형표</item>
+        <item>볼린저밴드</item>
+        <item>볼린저밴드</item>
+        <item>그물망차트</item>
+        <item>매물대분석</item>
+        <item>파라볼릭SAR</item>
+        <item>Envelope</item>
+        <item>MAC</item>
+        <item>Pivot</item>
+        <item>지그재그</item>
+        <item>그물망차트</item>
+        <item>매물대분석</item>
+        <item>파라볼릭SAR</item>
+        <item>Envelope</item>
+        <item>MAC</item>
+        <item>Pivot</item>
+        <item>지그재그</item>
+    </string-array>
+</resources>

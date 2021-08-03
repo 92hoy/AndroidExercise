@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="minute">
+        <item>분1</item>
+        <item>분2</item>
+        <item>분3</item>
+        <item>분4</item>
+        <item>분5</item>
+        <item>분6</item>
+        <item>분7</item>
+    </string-array>
+</resources>

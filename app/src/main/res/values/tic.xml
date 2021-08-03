@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tic">
+        <item>틱1</item>
+        <item>틱2</item>
+        <item>틱3</item>
+        <item>틱4</item>
+        <item>틱5</item>
+        <item>틱6</item>
+        <item>틱7</item>
+    </string-array>
+</resources>
