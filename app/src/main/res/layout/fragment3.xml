@@ -8,5 +8,18 @@
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="일반설정" />
+        android:text="Custom ListView" />
+    <TextView
+        android:id="@+id/show_clist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="List" />
+    <ListView
+        android:id="@+id/custom_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textAlignment="center" >
+    </ListView>
 </LinearLayout>

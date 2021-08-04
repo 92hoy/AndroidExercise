@@ -42,7 +42,7 @@ public class SettingActivity extends AppCompatActivity {
         TabLayout tabs = findViewById(R.id.tabs);
         tabs.addTab(tabs.newTab().setText("지표"));
         tabs.addTab(tabs.newTab().setText("분/틱"));
-        tabs.addTab(tabs.newTab().setText("일반설정"));
+        tabs.addTab(tabs.newTab().setText("Custom"));
         tabs.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
             public void onTabSelected(TabLayout.Tab tab) {
